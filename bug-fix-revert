@@ -1,0 +1,66 @@
+➜  Final-Project-Git_Github git:(main) curl -s "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1" > bug-fix-revert  
+➜  Final-Project-Git_Github git:(main) ✗ cat bug-fix-revert | grep -E '"html_url":|"state":|"label":|"repo":' -A 3 
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
+  "diff_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1.diff",
+  "patch_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1.patch",
+  "issue_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/issues/1",
+--
+  "state": "closed",
+  "locked": false,
+  "title": "Bug fix revert",
+  "user": {
+--
+    "html_url": "https://github.com/SameepSkillup",
+    "followers_url": "https://api.github.com/users/SameepSkillup/followers",
+    "following_url": "https://api.github.com/users/SameepSkillup/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SameepSkillup/gists{/gist_id}",
+--
+    "label": "SameepSkillup:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "sha": "17581a60ab418969f18966f2380ea82e7cb2b4f9",
+    "user": {
+--
+      "html_url": "https://github.com/SameepSkillup",
+      "followers_url": "https://api.github.com/users/SameepSkillup/followers",
+      "following_url": "https://api.github.com/users/SameepSkillup/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SameepSkillup/gists{/gist_id}",
+--
+    "repo": {
+      "id": 1050913356,
+      "node_id": "R_kgDOPqOqTA",
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+--
+        "html_url": "https://github.com/SameepSkillup",
+        "followers_url": "https://api.github.com/users/SameepSkillup/followers",
+        "following_url": "https://api.github.com/users/SameepSkillup/following{/other_user}",
+        "gists_url": "https://api.github.com/users/SameepSkillup/gists{/gist_id}",
+--
+      "html_url": "https://github.com/SameepSkillup/mcino-Introduction-to-Git-and-GitHub",
+      "description": "Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "url": "https://api.github.com/repos/SameepSkillup/mcino-Introduction-to-Git-and-GitHub",
+--
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+    "user": {
+--
+      "html_url": "https://github.com/ibm-developer-skills-network",
+      "followers_url": "https://api.github.com/users/ibm-developer-skills-network/followers",
+      "following_url": "https://api.github.com/users/ibm-developer-skills-network/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ibm-developer-skills-network/gists{/gist_id}",
+--
+    "repo": {
+      "id": 1050225087,
+      "node_id": "R_kgDOPpkpvw",
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+--
+        "html_url": "https://github.com/ibm-developer-skills-network",
+        "followers_url": "https://api.github.com/users/ibm-developer-skills-network/followers",
+        "following_url": "https://api.github.com/users/ibm-developer-skills-network/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ibm-developer-skills-network/gists{/gist_id}",
+--
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "description": "Introduction-to-Git-and-GitHub",
+      "fork": false,
+      "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",

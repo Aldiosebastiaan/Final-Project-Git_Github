@@ -1,0 +1,8 @@
+  bug-fix-typo                                 f30d3c9 [origin/bug-fix-typo] Remove technology stack details from README
+* main                                         f30d3c9 [origin/main: ahead 1] Remove technology stack details from README
+  remotes/origin/HEAD                          -> origin/main
+  remotes/origin/bug-fix-typo                  f30d3c9 Remove technology stack details from README
+  remotes/origin/fix/update-contributing.md    0957fc8 fix: update contributing.md
+  remotes/origin/fix/update-readme             a8409ce Perbarui README.md dengan informasi lengkap
+  remotes/origin/fix/update-simple-interest.sh 6c52894 Refactor simple-interest.sh for better usability
+  remotes/origin/main                          da5ce6e Merge pull request #3 from Aldiosebastiaan/Aldiosebastiaan-patch-1

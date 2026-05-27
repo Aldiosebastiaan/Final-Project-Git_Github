@@ -34,13 +34,6 @@ Aplikasi ini menggunakan formula matematika standar untuk bunga tunggal:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-
-* **Frontend:** HTML5, CSS3 (Tailwind CSS / Vanilla CSS), JavaScript (ES6+)
-* **Bundler/Tools:** Vite / Live Server *(Sesuaikan dengan teknologi Anda)*
-
----
-
 ## 🚀 Cara Menjalankan Proyek
 
 ### 1. Clone Repositori

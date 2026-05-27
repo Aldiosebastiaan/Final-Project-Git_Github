@@ -1,0 +1,16 @@
+➜  Final-Project-Git_Github git:(main) git branch
+➜  Final-Project-Git_Github git:(main) git checkout bug-fix-typo                                            
+branch 'bug-fix-typo' set up to track 'origin/bug-fix-typo'.
+Switched to a new branch 'bug-fix-typo'
+➜  Final-Project-Git_Github git:(bug-fix-typo) git pull origin main
+From github.com:Aldiosebastiaan/Final-Project-Git_Github
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+➜  Final-Project-Git_Github git:(bug-fix-typo) git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+➜  Final-Project-Git_Github git:(main) git merge bug-fix-typo                                               
+Updating da5ce6e..f30d3c9
+Fast-forward
+ README.md | 7 -------
+ 1 file changed, 7 deletions(-)
